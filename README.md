@@ -21,10 +21,10 @@
 
 * You can use the following command line to run the application.
 
-	Example-1: `$ {LOCAL_PATH}\Co2EquivalentCalculator_jar>java -jar  Co2EquivalentCalculator.jar --transportation-method train  
+	Runnable-command-1: `$ {LOCAL_PATH}\Co2EquivalentCalculator_jar>java -jar  Co2EquivalentCalculator.jar --transportation-method train  
 	--distance 15000 --unit-of-distance m --output kg`
 	
-	Example-2: `$ {LOCAL_PATH}\Co2EquivalentCalculator_jar>java -jar  Co2EquivalentCalculator.jar --transportation-method=train  
+	Runnable-command-2: `$ {LOCAL_PATH}\Co2EquivalentCalculator_jar>java -jar  Co2EquivalentCalculator.jar --transportation-method=train  
 	--distance=15000 --unit-of-distance=m --output=kg`
 
 
